@@ -98,6 +98,12 @@ footer {
     margin-top: 80px;
 }
 
+footer a:hover {
+    cursor: pointer;
+    color: #000;
+    font-weight: bold;
+}
+
 #balls {
     position: fixed;
     bottom: 0;
